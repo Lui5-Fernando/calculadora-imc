@@ -1,2 +1,2 @@
-# calculadora-imc
-Uma simples  Calculadora de IMC (Índice de Massa Corporal)
+# Calculadora de IMC (Índice de Massa Corporal)
+Uma simples Calculadora de IMC (Índice de Massa Corporal)
